@@ -8,7 +8,7 @@
 <img src="https://i.imgur.com/FKmND95.jpeg" alt="Imagem1" width="400" />
 </p>
 
-<h3 align="left">Hey! You can call me Ren.<br></h3>
+<h3 align="left">OIOI! PODE ME CHAMAR DE REN!<br></h3>
 
 <p align="left">
 <br>Eu sou uma programadora bastante amadora, quer dizer, de modo geral, eu entendo bastante sobre HTML e Python e também estou tentando aprender mais sobre outras linguagens, mas meu conhecimento ainda é muito limitado, por isso, meu maior objetivo é conhecer mais sobre tudo que eu puder nessa área, então estou sempre disposta a aprender mais sobre qualquer coisa que eu possa!<br>
