@@ -20,9 +20,18 @@ Eu sou uma programadora bastante amadora. De modo geral, eu entendo bastante sob
   <tr>
     <td width="50%" valign="top">
       
-HTML: Uso bastante em trabalhos escolares e também muitas vezes só pra passar o tempo.<br>
-<br>Python: Tenho familiaridade com scripts básicos e estruturas de dados.<br>
-<br>Aprendendo: Explorando novas linguagens e frameworks (ex: JavaScript, React).
+HTML: Uso bastante em trabalhos escolares e também muitas vezes só pra passar o tempo.
+
+
+
+
+
+Python: Tenho familiaridade com scripts básicos e estruturas de dados.
+
+
+
+
+Aprendendo: Explorando novas linguagens e frameworks (ex: JavaScript, React).
       
 </td>
     <td width="50%" align="right">
